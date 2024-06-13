@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/ishitab1310/)
     * [**Visit my GitHub**](https://github.com/ishitab1310)
 
-- 🧑‍💻 Tech I vibe with 
+-  Tech I vibe with 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
